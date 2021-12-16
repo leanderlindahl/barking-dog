@@ -1,0 +1,14 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+ @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300");
+ 
+ body {
+   background: #f5f5f5;
+   font-family: "Open Sans", sans-serif;
+ }
+ 
+ .barking-dog {
+   max-width: 500px;
+ }
